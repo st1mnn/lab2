@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS lab14_3_hotels;
+DROP TABLE IF EXISTS lab14_3_firms;
+DROP TABLE IF EXISTS lab14_3_countries;
